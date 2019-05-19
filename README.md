@@ -1,7 +1,7 @@
 # Guess The Password Game
 ---
 
-This is a simple password guessing game built with Vanilla Javascript, Express with Node.js. In this version I have refactored the code from ES5 to Javascript ES2015, 2017 and 2018.
+This is a simple password guessing game built with Vanilla Javascript, Express and Node.js. In this version I have refactored the code from ES5 to Javascript ES2015, 2017 and 2018.
 
 Screenshots of the front end.
 
